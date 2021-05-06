@@ -1,6 +1,6 @@
 Hi, I’m @karlcridland
 
-I'm currently studying at the University of Essex, I'm interested in mobile/web development. 
+I'm currently studying at the University of Essex, my main focus for programming is mobile/web development where I'm creating a range of applications and websites, trying to be as creative as I can. 
 I'll post some of the projects I'm working on here.
 
 
