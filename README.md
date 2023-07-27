@@ -1,6 +1,8 @@
 Hi, I’m @karlcridland
 
-I'm currently studying at the University of Essex, my main focus for programming is mobile/web development where I'm creating a range of applications and websites.
+Graduate 1st Class Honours from the University of Essex in Computer Science. 📚
+
+Currently working at Zappar as a Mobile App Developer. 🧑🏻‍💻
 
 
 <!---
