@@ -1,6 +1,6 @@
 Hi, I’m @karlcridland
 
-Graduate 1st Class Honours from the University of Essex in Computer Science. 📚
+Graduated 1st Class Honours from the University of Essex in Computer Science. 📚
 
 Currently working at Zappar as a Mobile App Developer. 🧑🏻‍💻
 
